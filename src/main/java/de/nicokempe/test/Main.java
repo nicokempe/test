@@ -1,4 +1,4 @@
-package de.xlikebastard.test;
+package de.nicokempe.test;
 
 public class Main {
 
