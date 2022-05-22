@@ -7,4 +7,7 @@ demo / test project
 
 
 
-![alt text](github-profiles-banner.png "Title")
+![1](github-profiles-banner.png  "Title")
+![2](github-profiles-header.png "Title")
+![3](github-profiles-header_edit.png "Title")
+![4](header-logo.png "Title")
