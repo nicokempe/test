@@ -13,6 +13,4 @@ demo / test project
 ![4](header-logo.png "Title")
 [![Community](https://discordapp.com/api/guilds/528350750825512988/widget.png?style=banner2)]([[https://einTosti.com/discord](https://discord.com/invite/t9frQmmqPe)](https://discord.com/invite/t9frQmmqPe))
 
-![6](dynasty-transparent.png "Dynasty")
-
-https://github.com/nicokempe/test/blob/main/dynasty-transparent.png
+![dynasty-github-background-image](dynasty-transparent.png "Dynasty GitHub background image")
